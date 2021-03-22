@@ -5,6 +5,8 @@ This script is scoreboard for Fivem You can see
 * Player Name
 * Player ID
 * Player Money
+## Preview
+[Youtube](https://youtu.be/kOpRUQX5Ou0)
 ## Community Support
 [![](https://i.ibb.co/0Xkj1XQ/discord-3.png)](https://discord.gg/PDyScNc6)
 
