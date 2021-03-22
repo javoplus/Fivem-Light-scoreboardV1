@@ -16,3 +16,5 @@ You can see
 * Press `Arrow up` to open
 * Press `Arrow down` to close
 * Place your mouse over the player's name to see the player's information
+
+![](https://forum.cfx.re/uploads/default/original/4X/4/f/3/4f32124f5addbd60a9aaf30b793dd17e1ab1ac4b.png)
