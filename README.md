@@ -1,6 +1,7 @@
 # Fivem-Light-scoreboardV1
-This script is scoreboard for Fivem
-You can see
+![](https://forum.cfx.re/uploads/default/original/4X/7/b/e/7bef44859291ea6049debf8d8de8ea9fd1c54d49.png)
+
+This script is scoreboard for Fivem You can see
 * Player Name
 * Player ID
 * Player Money
